@@ -1,0 +1,24 @@
+{
+  "name": "caixa-bancario-",
+  "version": "1.0.0",
+  "description": "Este é um script de lógica pura desenvolvido em JavaScript (ES6+) que simula as operações essenciais de um caixa eletrônico diretamente no ambiente de terminal/console mobile.",
+  "main": "Caixa eletrônico.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/LevizBlessedpo/Caixa-bancario-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/LevizBlessedpo/Caixa-bancario-/issues"
+  },
+  "homepage": "https://github.com/LevizBlessedpo/Caixa-bancario-#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
